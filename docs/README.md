@@ -42,6 +42,6 @@ Next, we'll enrich this analysis by introducing an additional attribute to these
 Finally, our focus shifts to a more comprehensive multivariate approach. Here, we'll incorporate both Loan Amount and time series factors into our bivariate distributions, illustrating their combined effect on loan status.
 
 ## References
-[A Complete Guide to Grouped Bar Charts](https://chartio.com/learn/charts/grouped-bar-chart-complete-guide/)
-[Seaborn Color Palettes](https://www.practicalpythonfordatascience.com/ap_seaborn_palette)
-[Horizontal boxplot with observations](https://seaborn.pydata.org/examples/horizontal_boxplot.html)
+- [A Complete Guide to Grouped Bar Charts](https://chartio.com/learn/charts/grouped-bar-chart-complete-guide/)
+- [Seaborn Color Palettes](https://www.practicalpythonfordatascience.com/ap_seaborn_palette)
+- [Horizontal boxplot with observations](https://seaborn.pydata.org/examples/horizontal_boxplot.html)
