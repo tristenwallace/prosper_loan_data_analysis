@@ -8,6 +8,8 @@ There are 74,019 loan listings in the dataset with 18 variables (excluding the I
 
 For detailed explanations of these variables, a [data feature dictionary](https://www.google.com/url?q=https://docs.google.com/spreadsheet/ccc?key%3D0AllIqIyvWZdadDd5NTlqZ1pBMHlsUjdrOTZHaVBuSlE%26usp%3Dsharing&sa=D&ust=1554486256024000) is provided.
 
+You can download the [original data here](https://s3.amazonaws.com/udacity-hosted-downloads/ud651/prosperLoanData.csv), and the [cleaned dataset here](https://drive.google.com/file/d/1r97jArVU9Y0dVUVZdmFEFrBEtsOxfdZr/view?usp=drive_link).
+
 ## Summary
 In the exploration, we focused on 6,123 listings between 1 July 2008 and 31 December 2009, and examined selective attributes on borrower and loans, time series events to see their effects on loan listing distributions.
 
